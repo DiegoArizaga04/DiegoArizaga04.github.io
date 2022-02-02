@@ -1,0 +1,8 @@
+.rojo{color: rgb(255,0,0)}
+#A{color: blue}
+*{font-family: monospace}
+p{text-align: center}
+em{color: purple}
+h1{background-color: green}
+h2{background-color: orange}
+a:hover{background-color: rgb(197, 0, 122)}
