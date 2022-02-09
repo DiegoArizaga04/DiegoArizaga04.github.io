@@ -1,0 +1,9 @@
+body{font-family: Verdana, Geneva, Tahoma, sans-serif}
+#encabezado{text-align: center;color: darkblue;background-color: lightblue}
+#intro{color: purple;background: lightcoral}
+#test{font-family: 'Courier New', Courier, monospace;color: black;background-color: lightblue}
+#negrita{font-weight: bold;}
+#negrita:hover{background-color: yellow}
+.impar{background-color: lightgray}
+.par{background-color: darkgray}
+.correcta{background-color: yellow;color: red}
