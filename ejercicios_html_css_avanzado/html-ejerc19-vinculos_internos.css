@@ -1,0 +1,8 @@
+*{padding: 5px; margin: 5px}
+.img-centrada{display:block; margin:auto; display: table-cell; 
+vertical-align: middle;}  
+#color{background-color: black; color: white; font-family: monospace}
+.negrita{font-weight: 900;}
+.negrita:hover{background-color: orange; color:black}
+#caja{border-style:dashed; border-width:5px; border-color:red;border-radius:5px}
+a:hover{color: darkred}
