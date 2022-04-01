@@ -1,0 +1,2 @@
+alert("Esto lo ejecuto desde un archivo externo!") 
+alert("Este es el ejercicio 1 de javascript")
