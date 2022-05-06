@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>Ejercicio 09 Práctica de bucles y condicionales en cadenas de caracteres. </h1>
+  <script>
+    var frase = prompt("hoy es viernes")
+    var frase_nueva = prompt("")
+    
+    for (i in frase) {
+      if (frase[i] == "a"||frase[i] == "A")
+      {
+        frase_nueva = frase_nueva + "u";
+        document.write("Se ha detectado una <strong>a</strong> en la posición <strong>",i,"</strong> de la cadena. Se va a cambiar pòr una <strong>u</strong>")
+        document.write("<h2>",frase_nueva,"</h2>")
+       }
+      else
+    {frase_nueva=frase_nueva+frase[i]}
+      
+
+
+
+
+
+
+
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </script>
+</body>
+
+</html>
