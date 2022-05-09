@@ -1,0 +1,7 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1{background-color: red; font-family: courier }
+h2{background-color: lightpink; font-family: courier}
+body{background-color: lightgreen}
